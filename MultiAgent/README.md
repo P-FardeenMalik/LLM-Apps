@@ -8,7 +8,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 
 ## How to get Started?
 1. Clone the GitHub repository
-(git clone https://github.com/P-FardeenMalik/LLM-Apps/MultiAgent.git)
+```https://github.com/P-FardeenMalik/LLM-Apps.git```
 2. Install the required dependencies:
 (pip install -r requirements.txt)
 3. Get your OpenAI API Key
