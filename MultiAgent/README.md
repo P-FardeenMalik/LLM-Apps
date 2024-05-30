@@ -20,9 +20,9 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 
 * Once you provide a valid API key, three instances of the Assistant class are created:
 
-** story_researcher: Specializes in researching HackerNews stories.
-** user_researcher: Focuses on researching HackerNews users and reading articles from URLs.
-** hn_assistant: A team assistant that coordinates the research efforts of the story and user researchers.
+    * story_researcher: Specializes in researching HackerNews stories.
+    * user_researcher: Focuses on researching HackerNews users and reading articles from URLs.
+    * hn_assistant: A team assistant that coordinates the research efforts of the story and user researchers.
 * Enter your research query in the provided text input field. This could be a topic, keyword, or specific question related to HackerNews stories or users.
 
 * The hn_assistant will orchestrate the research process by delegating tasks to the story_researcher and user_researcher based on your query.
