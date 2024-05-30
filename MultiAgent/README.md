@@ -7,8 +7,7 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 * Generate blog posts, reports, and social media content based on your research queries
 
 ## How to get Started?
-1. [Clone the GitHub repository]
-(https://github.com/P-FardeenMalik/LLM-Apps.git)
+1. [Clone the GitHub repository](https://github.com/P-FardeenMalik/LLM-Apps.git)
 2. Install the required dependencies:
 (pip install -r requirements.txt)
 3. Get your OpenAI API Key
